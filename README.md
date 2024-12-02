@@ -1,2 +1,0 @@
-# CICD-Projects
-CICD PROJECTS
